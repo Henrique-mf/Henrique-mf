@@ -37,7 +37,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 
-<h3>🤝 I’m looking to collaborate on projects that require any of the above languages.</h3>
+
 
 <br> 
 
